@@ -49,3 +49,4 @@ El frontend queda en http://localhost:5173
 # parking-full
 # parking-full
 # parking-full
+# parking-full
